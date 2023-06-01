@@ -1,0 +1,56 @@
+/* Write your CSS here */
+.skn {
+  height: 100vh;
+  width: 100%;
+  background-color: aliceblue;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.nsk {
+  background-color: black;
+  height: 200px;
+  width: 400px;
+  border-radius: 10px;
+  padding: 20px;
+}
+.head {
+  color: white;
+  font-family: Roboto;
+}
+.but {
+  background-color: white;
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Roboto;
+  padding: 10px;
+}
+.butdiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.but2 {
+  background-color: white;
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Roboto;
+  padding: 10px;
+}
+
+.nsk2 {
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  height: 200px;
+  width: 400px;
+  border-radius: 10px;
+  padding: 20px;
+}
+.head2 {
+  color: black;
+  font-family: Roboto;
+}
